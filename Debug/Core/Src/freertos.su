@@ -1,0 +1,11 @@
+../Core/Src/freertos.c:180:6:vApplicationStackOverflowHook	16	static
+../Core/Src/freertos.c:191:6:vApplicationMallocFailedHook	4	static
+../Core/Src/freertos.c:213:6:MX_FREERTOS_Init	8	static
+../Core/Src/freertos.c:287:6:StartBMP_Task	24	static
+../Core/Src/freertos.c:322:6:StartBH_Task	24	static
+../Core/Src/freertos.c:368:6:StartLedRed_task	16	static
+../Core/Src/freertos.c:387:6:StartDHT11Task	32	static
+../Core/Src/freertos.c:424:6:StartSenderTask	56	static
+../Core/Src/freertos.c:517:6:StartIWDGTask	16	static
+../Core/Src/freertos.c:536:6:StartNRF24Task	24	static
+../Core/Src/freertos.c:566:6:_putchar	16	static

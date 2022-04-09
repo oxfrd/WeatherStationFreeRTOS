@@ -1,0 +1,11 @@
+../Core/Src/bmpxx80.c:66:9:BMP280_Read8	40	static
+../Core/Src/bmpxx80.c:114:10:BMP280_Read16	40	static
+../Core/Src/bmpxx80.c:132:10:BMP280_Read16LE	24	static
+../Core/Src/bmpxx80.c:175:6:BMP280_Write8	32	static
+../Core/Src/bmpxx80.c:191:10:BMP280_Read24	40	static
+../Core/Src/bmpxx80.c:322:6:BMP280_SetConfig	16	static
+../Core/Src/bmpxx80.c:327:6:BMP280_Init	16	static
+../Core/Src/bmpxx80.c:484:7:BMP280_ReadTemperature	32	static
+../Core/Src/bmpxx80.c:622:9:BMP280_ReadPressure	328	static
+../Core/Src/bmpxx80.c:726:9:BMP280_ReadTemperatureAndPressure	336	static
+../Core/Src/bmpxx80.c:761:7:BMP280_ReadAltitude	24	static

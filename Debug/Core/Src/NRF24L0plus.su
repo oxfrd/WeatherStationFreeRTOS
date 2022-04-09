@@ -1,0 +1,8 @@
+../Core/Src/NRF24L0plus.c:12:6:nrf24_CE_enable	8	static
+../Core/Src/NRF24L0plus.c:18:6:nrf24_CE_disable	8	static
+../Core/Src/NRF24L0plus.c:23:13:CS_ON	8	static
+../Core/Src/NRF24L0plus.c:27:13:CS_OFF	8	static
+../Core/Src/NRF24L0plus.c:34:19:nrf24_WriteReg	24	static
+../Core/Src/NRF24L0plus.c:53:19:nrf24_WriteMultileReg	24	static
+../Core/Src/NRF24L0plus.c:71:19:nrf24_ReadReg	24	static
+../Core/Src/NRF24L0plus.c:95:9:nrf24_GetStatus	16	static
